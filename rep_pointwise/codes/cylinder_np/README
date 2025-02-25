@@ -1,0 +1,18 @@
+Codes to reproduce the examples in TEST 2 in Section 3.2 of 
+
+B. Garcia-Archilla and J. Novo,
+   Pointwise error bounds in POD methods without difference quotients
+   J. Sci. Comput. (to appear)
+   Please check for volume, journal and pages in Journal of Scientific Computing
+                for proper citation if you use any of the codes or data here.
+
+Run first
+     the_diferences.m to get the value of the derivatives wrt time in file
+                 deriv_data_L2
+
+Then, run
+     get_pod_basis_L2.m to get the POD basis wrt L2 in pod_basis_L2.mat
+     get_pod_basis_H1.m to get the POD basis wrt H1 in pod_basis_H1.mat
+
+Then, run
+     make_figs_cylnp to generate  the figures in Section 3.2

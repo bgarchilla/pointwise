@@ -3,6 +3,7 @@ This is a repository with data and codes to reproduce the numerical experiments 
 B. Garcia-Archilla and J. Novo, 
      Pointwise error bounds in POD methods without difference quotients,
      Journal of Scientific Computing (to appear)
+     https://doi.org/10.1007/s10915-025-02838-9
      Preprint: https://doi.org/10.48550/arXiv.2407.17159
 
 Paper accepted for publication on February 17, 2025. Please check volume, pages and year of publication with Journal for proper citation.
